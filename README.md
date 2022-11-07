@@ -11,8 +11,8 @@
 
 ## 🎵 Spotify status
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://chanho-park.tistory.com/" width="341" height="571" alt="Now Playing">
+<a href="https://chanho-park.tistory.com/">
+  <img src="https://chanho-park.tistory.com/" width="341" height="571" alt="Chanho's Blog">
 </a>
 
 
