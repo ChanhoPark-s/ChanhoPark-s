@@ -1,12 +1,12 @@
  <h2> 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
  
-<br><br>
+<br>
 ### **<h3>:raising_hand:  About Me </h3>**
 <br><br>
 ## Introduction 
  - 찬호입니다.
 
-<br><br>
+<br>
 
 ## 📚 Learning
 - Platzi courses about Backend development Roadmap
