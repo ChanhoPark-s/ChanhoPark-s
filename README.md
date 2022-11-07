@@ -10,7 +10,7 @@
 - React.js with my Gf 👩‍❤️‍👨
 <br>
 
-## 💭 Contact & Channel
+## :telephone_receiver: Contact & Channel
 
 <a href="https://chanho-park.tistory.com/">
   <img src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g" width="50" height="50" alt="Chanho's Blog">
