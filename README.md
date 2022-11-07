@@ -12,7 +12,7 @@
 ## 🎵 Spotify status
 
 <a href="https://chanho-park.tistory.com/">
-  <img src="https://chanho-park.tistory.com/" width="341" height="571" alt="Chanho's Blog">
+  <img src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g" width="341" height="571" alt="Chanho's Blog">
 </a>
 
 
