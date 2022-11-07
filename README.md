@@ -1,4 +1,7 @@
-Hi there 👋
+<h2>### 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
+
+:raising_hand: ### About Me
+
 
 <!--
 **ChanhoPark-s/ChanhoPark-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
