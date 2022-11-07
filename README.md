@@ -5,4 +5,15 @@
 **Introduction**
 
 
+## 📚 Learning
+- Platzi courses about Backend development Roadmap
+- React.js with my Gf 👩‍❤️‍👨
+
+## 🎵 Spotify status
+
+<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+  <img src="https://chanho-park.tistory.com/" width="341" height="571" alt="Now Playing">
+</a>
+
+
 
