@@ -1,3 +1,6 @@
+ ## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park Chan Ho&fontAlign=80&fontAlignY=40&color=gradient)
+ 
  <h2> 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
 
 ### **<h3>:raising_hand:  About Me </h3>**
@@ -28,15 +31,13 @@
 - Spring
 - Maven
 - Visual Studio Code
-<br>
 
 ## DevOps
 - AWS EC2,RDS
 - Oracle Cloud, Oracle DataBase
-- Jenkins
+- Jenkins(CI/CD)
 - Tomcat
 - Eclipse
-<br>
 
 ## Frontend
 - HTML
@@ -46,5 +47,10 @@
 - Ajax
 - JQuery
 
+## Collaboration
+- github
+- Notion
+- ERD Cloud
+- draw.io 
 
 
