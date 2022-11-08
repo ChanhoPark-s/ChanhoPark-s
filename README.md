@@ -21,7 +21,7 @@
 
 
 ## :pick: Skills
-<h3>Backend</h3>
+## Backend
 - Java
 - Spring
 - Maven
