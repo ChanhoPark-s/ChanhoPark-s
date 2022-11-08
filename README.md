@@ -22,12 +22,14 @@
 
 ## :pick: Skills
 <br>
+
 ## Backend
 - Java
 - Spring
 - Maven
 - Visual Studio Code
 <br>
+
 ## DevOps
 - AWS EC2,RDS
 - Oracle Cloud, Oracle DataBase
@@ -35,6 +37,7 @@
 - Tomcat
 - Eclipse
 <br>
+
 ## Frontend
 - HTML
 - CSS
