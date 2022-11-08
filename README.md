@@ -21,7 +21,7 @@
 
 
 ## :pick: Skills
-*** Backend
+__Backend
 - React.js with my Gf 👩‍❤️‍👨
 
 
