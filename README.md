@@ -31,7 +31,7 @@ Maven
 Visual Studio Code
 
 ## DevOps
-- AWS EC2,RDS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 - Jenkins(CI/CD)
 - Tomcat
