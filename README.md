@@ -8,9 +8,9 @@
  - 
 
 ## :telephone_receiver: Contact & Channel
-- **Email** | **chanho159@naver.com**
-- **Blog** |  https://chanho-park.tistory.com
-- **Notion** | https://diagnostic-raven-02c.notion.site/63b7ecad4ab548c1be6a011a28947d81?v=f54f364770604efeaf4368640e1b8fe9
+- **Email**   | **chanho159@naver.com**
+- **Blog**    |  https://chanho-park.tistory.com
+- **Notion**  | https://diagnostic-raven-02c.notion.site/63b7ecad4ab548c1be6a011a28947d81?v=f54f364770604efeaf4368640e1b8fe9
 
 <!--<a href="https://chanho-park.tistory.com/">
   <img src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g" width="50" height="50" alt="Chanho's Blog">
