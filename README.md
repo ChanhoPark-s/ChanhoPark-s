@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-## Waving <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Park Chan Ho&fontAlign=80&fontAlignY=40&color=gradient)
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20Chan Ho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
  <h2> 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
 
 ### **<h3>:raising_hand:  About Me </h3>**
