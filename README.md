@@ -20,7 +20,7 @@
 </a>-->
 
 
-## :pick: Skills
+<h1>:pick: Skills </h1>
 ## Backend
 - Java
 - Spring
