@@ -20,21 +20,21 @@
 </a>-->
 
 
-<h1>:pick: Skills </h1>
+**:pick: Skills**
 ## Backend
 - Java
 - Spring
 - Maven
 - Visual Studio Code
 <br>
-<h3>DevOps</h3>
+## DevOps
 - AWS EC2,RDS
 - Oracle Cloud, Oracle DataBase
 - Jenkins
 - Tomcat
 - Eclipse
 <br>
-<h3>Frontend</h3>
+## Frontend
 - HTML
 - CSS
 - JavaScript
