@@ -22,6 +22,25 @@
 
 ## :pick: Skills
 <h3>Backend</h3>
-- React.js with my Gf 👩‍❤️‍👨
+- Java
+- Spring
+- Maven
+- Visual Studio Code
+<br>
+<h3>DevOps</h3>
+- AWS EC2,RDS
+- Oracle Cloud, Oracle DataBase
+- Jenkins
+- Tomcat
+- Eclipse
+<br>
+<h3>Frontend</h3>
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Ajax
+- JQuery
+
 
 
