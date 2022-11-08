@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20ChanHo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=funny&20coding!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20ChanHo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=funny&coding!&descAlignY=51&descAlign=62)
 
  <h2> 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
 
