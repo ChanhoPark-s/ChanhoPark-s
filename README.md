@@ -2,7 +2,7 @@
 
  <h2> 새로운 것이 흥미로운 개발자, 박찬호입니다.</h2>
 
-### **<h3>:raising_hand:  About Me </h3>**
+### **<h3>:raising_hand:  About Me </h3>** [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
 ## Introduction 
  - 안녕하세요! 신입 백엔드 개발자 **박찬호**입니다.
