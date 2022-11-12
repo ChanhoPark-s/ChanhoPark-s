@@ -45,7 +45,6 @@
 
 ## Collaboration
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<img src="https://yt3.ggpht.com/ytc/AMLnZu9WzC0hbuYKwT3NyBedSQaAL32phdSvfG5R-DNd=s176-c-k-c0x00ffffff-no-rj&logo=ERD&logoColor=white">
 - ERD Cloud
 - draw.io 
 
