@@ -16,7 +16,7 @@
 ## :telephone_receiver: Contact & Channel
 - **Email** | **chanho159@naver.com**
 - **Blog** |  https://chanho-park.tistory.com
-- **Portfolio** |  https://chanhopark-s.github.io/Porfolio/index
+- **Portfolio** |  https://chanhopark-s.github.io/Portfolio/index
 - **Notion**  | https://diagnostic-raven-02c.notion.site/63b7ecad4ab548c1be6a011a28947d81?v=f54f364770604efeaf4368640e1b8fe9
 
 <!--<a href="https://chanho-park.tistory.com/">
