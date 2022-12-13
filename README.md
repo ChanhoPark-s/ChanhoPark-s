@@ -25,7 +25,7 @@
 
 <br>
 
-<font size="100px;"> :pick: Skills</font>
+#### :pick: Skills ####
 <br>
 
 ## Backend
