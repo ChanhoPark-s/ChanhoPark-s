@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
+<br>
 
 ## :pushpin: Projects
 ### 1. [식자재쇼핑몰](https://github.com/ChanhoPark-s/grocery_store.git)
