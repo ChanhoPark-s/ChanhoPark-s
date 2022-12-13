@@ -25,7 +25,7 @@
 
 <br>
 
-## :pick: Skills ##
+<b> :pick: Skills</b>
 <br>
 
 ## Backend
