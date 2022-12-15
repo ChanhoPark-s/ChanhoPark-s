@@ -80,7 +80,7 @@
 >기술 스택:  
 >AWS EC2, AWS RDS Oracle, Oracle Cloud, Ngrok, Jenkins, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery, Bootstrap
 >  
->[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_corporate_project.git) &nbsp;/&nbsp;
+>[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_Project.git) &nbsp;/&nbsp;
 >[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
 >[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
 
