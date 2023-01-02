@@ -49,19 +49,7 @@
 <br>
 
 ## :pushpin: Projects
-### 1. [식자재쇼핑몰](https://github.com/ChanhoPark-s/grocery_store.git)
->식자재 쇼핑몰 (개인 프로젝트)  
->개발 기간: 2022.08.16 ~ 2022.08.26  
->  
->기술 스택:  
->Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery
->  
->[프로젝트 상세 설명](https://github.com/ChanhoPark-s/grocery_store.git) &nbsp;/&nbsp;
->[프로젝트 영상](https://www.youtube.com/watch?v=0uTWjoxM3kQ&t=169s) 
-
----
-
-### 2. [Billy A Dream](https://github.com/ChanhoPark-s/Billy-A-Dream.git)
+### 1. [Billy A Dream](https://github.com/ChanhoPark-s/Billy-A-Dream.git)
 >개인간 렌탈 거래 플랫폼  (팀 프로젝트)  
 >개발 기간: 2022.09.12 ~ 2022.09.30  
 >  
@@ -73,7 +61,7 @@
 >[Notion 협업](https://diagnostic-raven-02c.notion.site/2e50d5da245f49dfa59e756097219ff6?v=36f05fd3737348478d4ffc22c58814e9) 
 ---
 
-### 3. [WMS_corporate_project](https://github.com/ChanhoPark-s/WMS_Project.git)
+### 2. [WMS_corporate_project](https://github.com/ChanhoPark-s/WMS_Project.git)
 >WMS 창고 물류관리 시스템  (팀 프로젝트)  
 >개발 기간: 2022.10.24 ~ 2022.11.24
 >  
@@ -83,6 +71,25 @@
 >[프로젝트 상세 설명](https://github.com/ChanhoPark-s/WMS_Project.git) &nbsp;/&nbsp;
 >[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
 >[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
+
+
+---
+
+### 3. [식자재쇼핑몰](https://github.com/ChanhoPark-s/grocery_store.git)
+>식자재 쇼핑몰 (개인 프로젝트)  
+>개발 기간: 2022.08.16 ~ 2022.08.26  
+>  
+>기술 스택:  
+>Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery
+>  
+>[프로젝트 상세 설명](https://github.com/ChanhoPark-s/grocery_store.git) &nbsp;/&nbsp;
+>[프로젝트 영상](https://www.youtube.com/watch?v=0uTWjoxM3kQ&t=169s) 
+
+---
+
+
+
+
 
 
 <br>
