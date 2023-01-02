@@ -84,3 +84,6 @@
 >[프로젝트 영상](https://www.youtube.com/watch?v=gVzC5DC1zgE&t=420s) &nbsp;/&nbsp;
 >[Notion 협업](https://diagnostic-raven-02c.notion.site/1-e754e62847224d21805c4a1de271887b) 
 
+
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanhoPark-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
