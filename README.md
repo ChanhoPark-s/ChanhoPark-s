@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Park%20ChanHo&fontSize=72&animation=fadeIn&fontAlignY=38&desc=WMS%20%7C%20SCM%20%7C%20Enterprise%20System&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Park%20ChanHo&fontSize=72&animation=fadeIn&fontAlignY=38&desc=WMS%20%7C%20Enterprise%20System&descAlignY=55&descAlign=62)
 
 <h2 align="center">과정을 익히며 전체를 읽는 개발자, 박찬호입니다.</h2>
 
